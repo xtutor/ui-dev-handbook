@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "name": "ui-dev-handbook",
+  "description": "the official website for the juejin xiaoce -- ui development handbook",
+  "scripts": {
+    "dev": "nuxt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:xtutor/ui-dev-handbook.git"
+  },
+  "dependencies": {
+    "buefy": "^0.6.3",
+    "nuxt": "^1.4.0"
+  },
+  "engines": {
+    "node": "9"
+  },
+  "devDependencies": {
+    "ajv": "^6.2.1",
+    "eslint": "^4.18.2",
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-import": "^2.9.0",
+    "eslint-plugin-node": "^6.0.1",
+    "eslint-plugin-promise": "^3.7.0",
+    "eslint-plugin-standard": "^3.0.1",
+    "eslint-plugin-vue": "^4.3.0",
+    "node-sass": "^4.7.2",
+    "sass-loader": "^6.0.7"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "LV主唱大人",
+    "url": "http://faso.me"
+  }
+}
