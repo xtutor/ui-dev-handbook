@@ -29,9 +29,9 @@ $ cd Animation
 $ ath m recruit // 指定项目使用sass，其余配置默认
 ```
 
-3. 拷贝[static/demo-tween-animation/recruit](./static/demo-tween-animation-01)文件夹内容
+3. 拷贝[recruit](./recruit)文件夹内容
 
-将[recruit](./static/demo-tween-animation-01)目录内的所有文件拷贝，放置于新建项目的`recruit`模块目录（例如 Animation/recruit ）下
+将[recruit](./recruit)目录内的所有文件拷贝，放置于新建项目的`recruit`模块目录（例如 Animation/recruit ）下
 
 4. 运行项目
 
