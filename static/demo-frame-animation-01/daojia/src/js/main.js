@@ -15,7 +15,7 @@ function init() {
  */
 var preloader = new Preloader({
   resources: [
-    './../img/p8.png'
+    'img/p8.png'
   ],
   concurrency: 4,
   perMinTime: 1000 // 加载每个资源所需的最小时间，一般用来测试 loading
