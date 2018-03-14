@@ -2,12 +2,12 @@
 
 module.exports = {
   creator: 'litingting', // 模块创建者
-  app: 'H5Game', // 项目名称
+  app: 'H5Demo', // 项目名称
   common: 'gb', // 公共模块名称
   module: 'recruit', // 当前模块名
-  moduleId: '37ff9770-26ba-11e8-a27d-57710f4462e8',
+  moduleId: 'ead6a8c0-2755-11e8-ab70-ad6a62f7af91',
   description: '京东招聘demo', // 模块简要信息
-  tmpId: '571499180d135d447a523ce2',
+  tmpId: '57ca76dc3cc37ddeb47c187a',
   support : {
     csslint: {
       enable: true

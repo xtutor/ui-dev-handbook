@@ -18,22 +18,22 @@ git clone git@github.com:xtutor/ui-dev-handbook.git
 
 按照[官方指南](https://github.com/o2team/athena)进行安装。
 
-3. 进入工作目录进行新建项目，并创建`recruit`模块
+3. 新建项目 `H5Demo`，并创建`recruit`同名模块
 
 ```
-// 生成一个新的项目
-$ ath app [项目名称，例如Animation]
+// 生成一个名为 `H5Demo` 项目
+$ ath app H5Demo // 使用默认模版
 
 // 进入项目根目录，创建模块
-$ cd Animation
+$ cd H5Demo
 $ ath m recruit // 指定项目使用sass，其余配置默认
 ```
 
-3. 拷贝[recruit](./recruit)文件夹内容
+3. 替换`page`文件夹内容
 
-将[recruit](./recruit)目录内的所有文件拷贝，放置于新建项目的`recruit`模块目录（例如 Animation/recruit ）下
+拷贝本项目的[page](./recruit/page)目录，把本地`H5Demo/recruit`目录下的`page`文件夹进行替换。
 
-4. 运行项目
+4. 本地运行项目
 
 ```
 $ ath s

@@ -37,19 +37,5 @@
         }
       ]
     }
-  },
-  "rev": {
-    "js": {
-      "js/index.js": "js/index.min_8971778a.js"
-    },
-    "css": {
-      "css/index.css": "css/index.min_19ff2da1.css"
-    },
-    "img": {
-      "images/p3_01.png": "images/p3_01_0eef9596.png",
-      "images/p3_02.png": "images/p3_02_0e78344d.png",
-      "images/p3_03.png": "images/p3_03_c26f02b8.png",
-      "images/p3_04.png": "images/p3_04_a243aee6.png"
-    }
   }
 }
